@@ -134,3 +134,5 @@ Review."
 
 # needed for sitemap.xml file only
 url: http://www.gerritcodereview.com
+
+theme: jekyll-theme-dinky
